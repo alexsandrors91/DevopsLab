@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-                                                                                                                                                                                  
 from app import app                                                                                                                                                                                      
-from flask import Flask 
 import unittest                                                                                                                                                                                          
 
 class Test(unittest.TestCase):                                                                                                                                                                           
